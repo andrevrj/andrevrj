@@ -2,7 +2,6 @@
 Welcome to my GitHub repository! Here you will find various projects and code that I have developed over time. Feel free to explore, clone, and contribute with your ideas and improvements.
 
 - 📡 I'm currently working with telecommunications;
-- 🌱 I’m currently learning HTML and JavaScript;
 - 💻 I'm looking for job opportunities;
 - 🐍 Python skills for data analysis;
 - 😄 Pronouns: He/Him;
